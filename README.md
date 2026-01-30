@@ -55,6 +55,7 @@ words=[
 "attitude",
 "aeroplane"
 ]
+
 ---
 
 Example hangman_stages.py

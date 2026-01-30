@@ -127,13 +127,17 @@ Features
 •	Lives system
 •	Visual hangman stages
 •	Win and lose messages
+
 ---
+
 Possible Improvements
 •	Hide the chosen word (remove print(chosen_word))
 •	Prevent repeated guesses
 •	Add full-word guessing
 •	Improve input validation
+
 ---
+
 Author
 
 📌 Komal Bagal

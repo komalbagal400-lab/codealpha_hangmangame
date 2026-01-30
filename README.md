@@ -39,9 +39,9 @@ hangman_game
   - If the guess is wrong, a life is lost
 - The hangman stage updates after each guess
 
----
+  ---
 
-## Example `word_file.py`
+  ## Example `word_file.py`
 
 ```python
 words=[
@@ -55,6 +55,7 @@ words=[
 ]
 
 ---
+
 Example hangman_stages.py
 stages = ['''
   +---+
@@ -121,7 +122,9 @@ How to Run the Game
 3.	Run the program:
 Hangman game.py
 4.	Guess letters until you win or lose
+
 ---
+
 Features
 •	Random word selection
 •	Lives system
@@ -141,3 +144,4 @@ Possible Improvements
 Author
 
 📌 Komal Bagal
+

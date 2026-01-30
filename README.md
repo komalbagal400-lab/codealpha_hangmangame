@@ -55,6 +55,7 @@ words=[
 "attitude",
 "aeroplane"
 ]
+---
 
 Example hangman_stages.py
 stages = ['''
@@ -122,13 +123,17 @@ How to Run the Game
 3.	Run the program:
 Hangman game.py
 4.	Guess letters until you win or lose
-________________________________________
+
+---
+
 Features
 •	Random word selection
 •	Lives system
 •	Visual hangman stages
 •	Win and lose messages
-________________________________________
+
+---
+
 Possible Improvements
 •	Hide the chosen word (remove print(chosen_word))
 •	Prevent repeated guesses

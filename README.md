@@ -41,7 +41,7 @@ hangman_game
 
   ---
 
-  ## Example `word_file.py`
+  ## Example `word_file`
 
 ```python
 words=[
@@ -55,8 +55,10 @@ words=[
 ]
 
 ---
+---
 
-Example hangman_stages.py
+
+Example hangman_stages
 stages = ['''
   +---+
   |   |
